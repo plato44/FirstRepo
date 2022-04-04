@@ -1,1 +1,2 @@
- This is my master file
+This is my master file
+Added a second line to the file
